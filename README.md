@@ -1,9 +1,7 @@
 # ⌘ about me
-
-### about me .✦
-👩🏻‍💻 computer science student @ goldsmiths, university of london 
-🎨 i design and code, floating somewhere between tech and creativity
-🌐 working on building intentional, pretty, and functional things on the web
+- 👩🏻‍💻 computer science student @ goldsmiths, university of london 
+- 🎨 i design and code, floating somewhere between tech and creativity
+- 🌐 working on building intentional, pretty, and functional things on the web
 
 ### currently brewing
 - **project 012:** a challenge to code and deploy 12 distinct beginner projects in a year
