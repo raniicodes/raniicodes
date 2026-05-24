@@ -11,6 +11,5 @@
 ## ★
 feel free to copy, and share any of my repos. if you remix the code in your own project, a quick credit is always appreciated <3
 
-### find me on
-[instagram](https://www.instagram.com/raniidesigns)
+### design portfolio
 [behance](https://www.behance.net/raniabajwa)
