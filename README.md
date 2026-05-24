@@ -1,5 +1,5 @@
 # ⌘ about me
-- 👩🏻‍💻 computer science student @ goldsmiths, university of london 
+- 👩🏻‍💻 computer science with ai & ml @ goldsmiths, university of london 
 - 🎨 i design and code, floating somewhere between tech and creativity
 - 🌐 working on building intentional, pretty, and functional things on the web
 
