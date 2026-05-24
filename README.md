@@ -1,4 +1,4 @@
-# ⋆˚꩜｡ raniicodes
+# ⋆˚꩜｡ about me
 
 ### about me .✦
 👩🏻‍💻 computer science student @ goldsmiths, university of london 
